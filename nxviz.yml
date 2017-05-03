@@ -1,7 +1,7 @@
 name: nxviz
 channels: !!python/tuple
-- conda-forge
 - defaults
+- conda-forge
 - ericmjl
 dependencies:
 - pycodestyle
