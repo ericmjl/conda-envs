@@ -12,4 +12,3 @@ dependencies:
 - nxviz
 - hiveplot
 - jupyter
-prefix: /Users/ericmjl/anaconda/envs/nams

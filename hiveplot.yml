@@ -12,4 +12,3 @@ dependencies:
 - matplotlib
 - numpy
 - python=3.6
-prefix: /Users/ericmjl/anaconda/envs/hiveplot

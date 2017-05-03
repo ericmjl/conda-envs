@@ -18,4 +18,3 @@ dependencies:
 - seaborn
 - pymc3
 - jupyter
-prefix: /Users/ericmjl/anaconda/envs/writing

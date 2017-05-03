@@ -13,4 +13,3 @@ dependencies:
 - pymc3
 - jupyter
 - jupyterlab
-prefix: /Users/ericmjl/anaconda/envs/bayesian
