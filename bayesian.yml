@@ -1,0 +1,16 @@
+name: bayesian  # for Bayesian analysis
+channels: !!python/tuple
+- conda-forge
+- defaults
+- ericmjl
+dependencies:
+- python=3.6
+- matplotlib
+- numpy
+- pandas
+- scipy
+- seaborn
+- pymc3
+- jupyter
+- jupyterlab
+prefix: /Users/ericmjl/anaconda/envs/bayesian
