@@ -1,7 +1,7 @@
 name: nams  # Network Analysis Made Simple
 channels: !!python/tuple
-- conda-forge
 - defaults
+- conda-forge
 - ericmjl
 dependencies:
 - matplotlib
