@@ -4,38 +4,11 @@ channels: !!python/tuple
 - defaults
 - ericmjl
 dependencies:
-- conda-forge::pycodestyle=2.0.0=py35_0
-- cycler=0.10.0=py35_0
-- decorator=4.0.10=py35_0
-- django=1.9.5=py35_0
-- ericmjl::hypothesis=3.4.2=py35_0
-- freetype=2.5.5=1
-- libpng=1.6.22=0
-- matplotlib=1.5.1=np111py35_0
-- mkl=11.3.3=0
-- networkx=1.11=py35_0
-- numpy=1.11.1=py35_0
-- openssl=1.0.2h=1
-- pip=8.1.2=py35_0
-- py=1.4.31=py35_0
-- pyparsing=2.1.4=py35_0
-- pyqt=4.11.4=py35_4
-- pytest=2.9.2=py35_0
-- python=3.5.2=0
-- python-dateutil=2.5.3=py35_0
-- pytz=2016.6.1=py35_0
-- qt=4.8.7=4
-- readline=6.2=2
-- setuptools=23.0.0=py35_0
-- sip=4.18=py35_0
-- six=1.10.0=py35_0
-- sqlite=3.13.0=0
-- tk=8.5.18=0
-- wheel=0.29.0=py35_0
-- xz=5.2.2=0
-- zlib=1.2.8=3
-- pip:
-  - click==6.6
-  - coverage==4.1
+- pycodestyle
+- hypothesis
+- matplotlib
+- networkx
+- python=3.6
+- click
+- coverage
 prefix: /Users/ericmjl/anaconda/envs/nxviz
-
