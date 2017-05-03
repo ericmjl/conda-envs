@@ -11,4 +11,5 @@ dependencies:
 - python=3.6
 - click
 - coverage
+- polcart
 prefix: /Users/ericmjl/anaconda/envs/nxviz
