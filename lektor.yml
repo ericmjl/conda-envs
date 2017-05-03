@@ -1,51 +1,10 @@
-name: lektor
+name: lektor  # for my website.
 channels:
-- conda-forge
 - defaults
+- conda-forge
 - ericmjl
 dependencies:
-- ca-certificates=2017.1.23=1
-- certifi=2017.4.17=py27_0
-- ncurses=5.9=10
-- openssl=1.0.2k=0
-- pip=9.0.1=py27_0
-- python=2.7.13=1
-- readline=6.2=0
-- setuptools=33.1.1=py27_0
-- sqlite=3.13.0=1
-- tk=8.5.19=1
-- wheel=0.29.0=py27_0
-- zlib=1.2.11=0
+- python=2.7
 - pip:
-  - appdirs==1.4.3
-  - argh==0.26.2
-  - asn1crypto==0.22.0
-  - babel==2.4.0
-  - cffi==1.10.0
-  - click==6.7
-  - cryptography==1.8.1
-  - enum34==1.1.6
-  - exifread==2.1.2
-  - flask==0.12.1
-  - idna==2.5
-  - inifile==0.3
-  - ipaddress==1.0.18
-  - itsdangerous==0.24
-  - jinja2==2.9.6
-  - lektor==2.3
-  - markupsafe==1.0
-  - mistune==0.7.4
-  - ndg-httpsclient==0.4.2
-  - packaging==16.8
-  - pathtools==0.1.2
-  - pyasn1==0.1.9
-  - pycparser==2.17
-  - pyopenssl==17.0.0
-  - pyparsing==2.2.0
-  - pytz==2017.2
-  - pyyaml==3.12
-  - requests==2.13.0
-  - six==1.10.0
-  - watchdog==0.8.3
-  - werkzeug==0.12.1
+  - lektor
 prefix: /Users/ericmjl/anaconda/envs/lektor
