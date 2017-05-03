@@ -1,0 +1,10 @@
+name: smallgroup
+channels:
+- conda-forge
+- defaults
+- ericmjl
+dependencies:
+- flask
+- tinydb
+- pytest
+- python=3.6
