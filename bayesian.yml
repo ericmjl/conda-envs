@@ -10,6 +10,7 @@ dependencies:
 - pandas
 - scipy
 - seaborn
-- pymc3
 - jupyter
 - jupyterlab
+- pip:
+    - pymc3
