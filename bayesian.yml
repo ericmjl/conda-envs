@@ -12,5 +12,4 @@ dependencies:
 - seaborn
 - jupyter
 - jupyterlab
-- pip:
-    - pymc3
+- pymc3
