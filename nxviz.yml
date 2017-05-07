@@ -13,3 +13,5 @@ dependencies:
 - coverage
 - polcart
 - jupyter
+- pip:
+  - environment_kernels

@@ -15,3 +15,5 @@ dependencies:
 - pymc3
 - scikit-learn
 - statsmodels
+- pip:
+  - environment_kernels

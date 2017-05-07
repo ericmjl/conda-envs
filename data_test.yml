@@ -15,3 +15,5 @@ dependencies:
 - missingno
 - pytest
 - tinydb
+- pip:
+  - environment_kernels
