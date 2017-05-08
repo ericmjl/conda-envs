@@ -15,5 +15,6 @@ dependencies:
 - scikit-learn
 - statsmodels
 - ipykernel
+- flask
 - pip:
   - environment_kernels
