@@ -15,5 +15,6 @@ dependencies:
 - missingno
 - pytest
 - tinydb
+- pyyaml
 - pip:
   - environment_kernels
