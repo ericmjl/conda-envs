@@ -16,5 +16,6 @@ dependencies:
 - statsmodels
 - ipykernel
 - flask
+- bokeh
 - pip:
   - environment_kernels
