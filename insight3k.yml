@@ -1,4 +1,4 @@
-name: insight3k
+name: insight
 channels:
 - defaults
 - conda-forge
@@ -6,10 +6,14 @@ dependencies:
 - python=3.6
 - matplotlib
 - numpy
-- seaborn
 - pandas
-- scikit-learn 
+- scipy
+- seaborn
 - jupyter
+- jupyterlab
+- pymc3
+- scikit-learn
+- statsmodels
 - ipykernel
 - pip:
   - environment_kernels
