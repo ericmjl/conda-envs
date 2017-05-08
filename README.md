@@ -19,6 +19,6 @@ $ conda env update -f environment.yml  # this is where the update magic happens
 $ source activate {env_name}
 ```
 
-# Purpose
+## Purpose
 
 This repository exists because I sometimes share environments across projects. Keeping multiple environment specs in sync is a hassle. This is my hack for keeping things in sync.
