@@ -1,19 +1,19 @@
-name: datatest  # Data Testing Tutorial
+name: bayesian  # for Bayesian analysis
 channels: !!python/tuple
 - defaults
 - conda-forge
 - ericmjl
 dependencies:
-- matplotlib
-- scipy
-- numpy
 - python=3.6
-- nxviz
-- hiveplot
+- matplotlib
+- numpy
+- pandas
+- scipy
+- seaborn
 - jupyter
 - jupyterlab
-- missingno
-- pytest
-- tinydb
+- pymc3
+- scikit-learn
+- statsmodels
 - pip:
   - environment_kernels
