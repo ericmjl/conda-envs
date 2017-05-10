@@ -3,6 +3,7 @@ channels: !!python/tuple
 - defaults
 - conda-forge
 - ericmjl
+- damianavila82
 dependencies:
 - pycodestyle
 - hypothesis
@@ -13,5 +14,8 @@ dependencies:
 - coverage
 - polcart
 - jupyter
+- jupyterlab
+- ipykernel
+- rise
 - pip:
   - environment_kernels

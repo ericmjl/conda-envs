@@ -3,6 +3,7 @@ channels: !!python/tuple
 - conda-forge
 - defaults
 - ericmjl
+- damianavila82
 dependencies:
 - pandoc
 - pandoc-attributes
@@ -18,5 +19,7 @@ dependencies:
 - seaborn
 - pymc3
 - jupyter
+- jupyterlab
+- ipykernel
 - pip:
   - environment_kernels

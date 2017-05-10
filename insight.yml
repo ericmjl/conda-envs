@@ -2,6 +2,7 @@ name: insight
 channels:
 - defaults
 - conda-forge
+- damianavila82
 dependencies:
 - python=3.6
 - matplotlib
@@ -17,5 +18,6 @@ dependencies:
 - ipykernel
 - flask
 - bokeh
+- rise
 - pip:
   - environment_kernels

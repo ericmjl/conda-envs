@@ -3,6 +3,7 @@ channels: !!python/tuple
 - defaults
 - conda-forge
 - ericmjl
+- damianavila82
 dependencies:
 - matplotlib
 - networkx
@@ -12,6 +13,9 @@ dependencies:
 - nxviz
 - hiveplot
 - jupyter
+- jupyterlab
+- ipykernel
 - pandas
+- rise
 - pip:
     - environment_kernels
