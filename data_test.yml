@@ -3,7 +3,6 @@ channels: !!python/tuple
 - defaults
 - conda-forge
 - ericmjl
-- damianavila82
 dependencies:
 - matplotlib
 - scipy

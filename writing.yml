@@ -3,7 +3,6 @@ channels: !!python/tuple
 - conda-forge
 - defaults
 - ericmjl
-- damianavila82
 dependencies:
 - pandoc
 - pandoc-attributes

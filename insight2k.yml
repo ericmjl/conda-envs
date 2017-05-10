@@ -2,7 +2,6 @@ name: insight2k
 channels:
 - defaults
 - conda-forge
-- damianavila82
 dependencies:
 - python=2.7
 - matplotlib
