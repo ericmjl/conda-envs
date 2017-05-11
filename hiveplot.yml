@@ -9,8 +9,10 @@ dependencies:
 - pytest-cov
 - twine
 - jupyter
+- ipykernel
 - matplotlib
 - numpy
 - python=3.6
+- rise
 - pip:
   - environment_kernels

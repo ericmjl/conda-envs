@@ -12,6 +12,9 @@ dependencies:
 - nxviz
 - hiveplot
 - jupyter
+- jupyterlab
+- ipykernel
 - pandas
+- rise
 - pip:
     - environment_kernels

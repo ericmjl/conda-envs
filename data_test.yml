@@ -6,6 +6,7 @@ channels: !!python/tuple
 dependencies:
 - python=3.6
 - jupyter
+- ipykernel
 - jupyterlab
 - missingno
 - pytest

@@ -17,5 +17,6 @@ dependencies:
 - ipykernel
 - flask
 - bokeh
+- rise
 - pip:
   - environment_kernels

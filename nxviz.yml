@@ -13,5 +13,8 @@ dependencies:
 - coverage
 - polcart
 - jupyter
+- jupyterlab
+- ipykernel
+- rise
 - pip:
   - environment_kernels
