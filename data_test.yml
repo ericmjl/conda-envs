@@ -4,16 +4,12 @@ channels: !!python/tuple
 - conda-forge
 - ericmjl
 dependencies:
-- matplotlib
-- scipy
-- numpy
 - python=3.6
-- nxviz
-- hiveplot
 - jupyter
 - jupyterlab
 - missingno
 - pytest
+- pytest-cov
 - tinydb
 - pyyaml
 - pandas-summary
