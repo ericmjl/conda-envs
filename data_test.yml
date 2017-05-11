@@ -13,5 +13,6 @@ dependencies:
 - tinydb
 - pyyaml
 - pandas-summary
+- rise
 - pip:
   - environment_kernels
