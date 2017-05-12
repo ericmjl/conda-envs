@@ -16,5 +16,6 @@ dependencies:
 - pyyaml
 - pandas-summary
 - rise
+- hypothesis
 - pip:
   - environment_kernels
