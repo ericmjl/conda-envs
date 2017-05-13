@@ -9,13 +9,12 @@ dependencies:
 - jupyter
 - ipykernel
 - jupyterlab
-- missingno
 - pytest
 - pytest-cov
 - tinydb
 - pyyaml
 - pandas-summary
-- rise
-- hypothesis
 - pip:
   - environment_kernels
+  - missingno
+  - rise
