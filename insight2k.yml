@@ -2,6 +2,7 @@ name: insight2k
 channels:
 - defaults
 - conda-forge
+- ericmjl
 dependencies:
 - python=2.7
 - matplotlib
@@ -19,7 +20,7 @@ dependencies:
 - bokeh
 - rise
 - sqlalchemy
-- sqlalchemy_utils
 - psycopg2
 - pip:
   - environment_kernels
+  - sqlalchemy-utils

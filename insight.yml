@@ -20,7 +20,7 @@ dependencies:
 - bokeh
 - rise
 - sqlalchemy
-- sqlalchemy_utils
 - psycopg2
 - pip:
   - environment_kernels
+  - sqlalchemy-utils
