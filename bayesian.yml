@@ -15,5 +15,4 @@ dependencies:
 - ipykernel
 - pymc3
 - rise
-- pip:
-  - environment_kernels
+- environment_kernels

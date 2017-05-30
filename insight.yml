@@ -21,6 +21,5 @@ dependencies:
 - rise
 - sqlalchemy
 - psycopg2
-- pip:
-  - environment_kernels
-  - sqlalchemy-utils
+- environment_kernels
+- sqlalchemy-utils
