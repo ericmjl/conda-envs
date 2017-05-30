@@ -1,0 +1,16 @@
+name: deeplearning
+channels:
+- defaults
+- conda-forge
+- ericmjl
+dependencies:
+- matplotlib
+- jupyter
+- numpy
+- seaborn
+- pymc3
+- pandas
+- biopython
+- rise
+- environment_kernels
+- scipy
