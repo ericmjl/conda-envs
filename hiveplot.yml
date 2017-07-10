@@ -1,5 +1,5 @@
 name: hiveplot  # for HivePlot development
-channels: !!python/tuple
+channels:
 - defaults
 - conda-forge
 - ericmjl
