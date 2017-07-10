@@ -1,5 +1,5 @@
 name: nams  # Network Analysis Made Simple
-channels: !!python/tuple
+channels:
 - defaults
 - conda-forge
 - ericmjl
