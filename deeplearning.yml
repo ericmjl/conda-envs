@@ -5,13 +5,13 @@ channels:
 - ericmjl
 dependencies:
 - python=3.6
-- matplotlib
-- jupyter
-- numpy
-- seaborn
-- pymc3
-- pandas
-- biopython
-- rise
-- environment_kernels
-- scipy
+- matplotlib=2.0.2
+- jupyter=1.0.0
+- numpy=1.13.1
+- seaborn=0.8
+- pymc3=3.1
+- pandas=0.20.3
+- biopython=1.69
+- rise=5.0.0
+- environment_kernels=1.1
+- scipy=0.19.1

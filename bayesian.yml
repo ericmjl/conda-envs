@@ -1,18 +1,18 @@
 name: bayesian  # for Bayesian analysis
-channels: !!python/tuple
+channels:
 - conda-forge
 - defaults
 - ericmjl
 dependencies:
 - python=3.6
-- matplotlib
-- numpy
-- pandas
-- scipy
-- seaborn
-- jupyter
-- jupyterlab
-- ipykernel
-- pymc3
-- rise
-- environment_kernels
+- matplotlib=2.0.2
+- numpy=1.13.1
+- pandas=0.20.3
+- scipy=0.19.1
+- seaborn=0.8
+- jupyter=1.0.0
+- jupyterlab=0.25.2
+- ipykernel=4.6.1
+- pymc3=3.1
+- rise=5.0.0
+- environment_kernels=1.1
