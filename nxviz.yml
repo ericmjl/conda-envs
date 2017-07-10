@@ -1,5 +1,5 @@
 name: nxviz
-channels: !!python/tuple
+channels:
 - defaults
 - conda-forge
 - ericmjl
