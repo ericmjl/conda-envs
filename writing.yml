@@ -1,5 +1,5 @@
 name: writing
-channels: !!python/tuple
+channels:
 - conda-forge
 - defaults
 - ericmjl
