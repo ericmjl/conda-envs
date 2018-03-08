@@ -7,7 +7,7 @@ My conda environment YAML files
 
 ```bash
 $ wget https://raw.githubusercontent.com/ericmjl/conda-envs/master/{env_name}.yml -O environment.yml
-$ conda env crate -f environment.yml
+$ conda env create -f environment.yml
 $ source activate {env_name}
 ```
 
