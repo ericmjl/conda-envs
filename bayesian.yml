@@ -15,4 +15,3 @@ dependencies:
 - ipykernel=4.6.1
 - pymc3=3.1
 - rise=5.0.0
-- environment_kernels=1.1
